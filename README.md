@@ -20,7 +20,7 @@ To use this bot, you will need:
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/Awskiszef/spoti-x-bot.git](https://github.com/Awskiszef/spoti-x-bot.git)
+git clone https://github.com/Awskiszef/spoti-x-bot.git
 cd spoti-x-bot
 ```
 
